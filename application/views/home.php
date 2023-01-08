@@ -77,9 +77,8 @@
               else{
              ?> 
                 <tr>
-                    <td>John</td>
-                    <td>Doe</td>
-                    <td>john@example.com</td>
+                    <td colspan="9">No Data</td>
+                    
                   </tr>
             <?php
               }
